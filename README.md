@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dylan! <br/><a href="https://github.com/dylanmondrus">Computer Science Student at Tulane University</a><br/><a href="https://www.linkedin.com/in/dylanmondrus/"><b>LinkedIn</b></a></h1>
+<h1>Hi, I'm Dylan! <br/>Computer Science Student at Tulane University</a><br/><a href="https://www.linkedin.com/in/dylanmondrus/"><b>LinkedIn</b></a></h1>
 
 
 
