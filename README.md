@@ -8,3 +8,6 @@
 - <b>Java-based 3D Story Game</b>
   - [Camelot](https://github.com/dylanmondrus/Camelot_Game)
 
+- <b>Multi-faceted Song Analysis</b>
+  - [SoundSpectrum](https://github.com/dylanmondrus/SoundSpectrum)
+
